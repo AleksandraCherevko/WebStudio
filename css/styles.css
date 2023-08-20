@@ -1035,7 +1035,7 @@ img {
 
 .portfolio-images-title {
   margin-bottom: 8px;
-  margin-left: 8px;
+
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
@@ -1043,6 +1043,7 @@ img {
 }
 
 .card-content {
+
   padding-top: 32px;
   padding-bottom: 32px;
   padding-left: 16px;
