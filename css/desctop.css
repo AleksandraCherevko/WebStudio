@@ -18,7 +18,6 @@
     display: block;
   }
   .header-link {
-
     display: block;
     font-weight: 600;
     color: var(--text-color);
@@ -326,10 +325,10 @@
   }
 
   /* --------------------------PORTFOLIO--------------------------------- */
-  /* .portfolio-cards > .container {
+  .portfolio-cards > .container {
     width: 1158px;
     width: 100%;
-  } */
+  }
 
   .portfolio-images-list {
     width: calc((100% - 48px) / 3);

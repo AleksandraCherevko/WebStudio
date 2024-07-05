@@ -131,7 +131,6 @@ img {
   margin-right: auto;
 }
 
-
 .header-item {
   display: none;
 }
@@ -671,7 +670,6 @@ img {
 }
 .skills-item-icons {
   display: none;
- 
 }
 
 .skills-list {
@@ -727,7 +725,6 @@ img {
 }
 
 .works-images {
-
 }
 
 /*--------------------------OUR TEAM CARDS----------------------------------*/
@@ -761,7 +758,6 @@ img {
 
 .team-members-item {
   background-color: var(--banner-color);
-
 }
 
 .team-members-name {
@@ -885,7 +881,6 @@ img {
 }
 .wrap {
   justify-content: center;
-
 }
 .footer-text {
   margin-top: 16px;
@@ -1006,7 +1001,6 @@ img {
 .portfolio-images {
   display: flex;
   flex-wrap: wrap;
-  /* gap: 48px; */
   row-gap: 48px;
 }
 .portfolio-images-list {
@@ -1043,7 +1037,6 @@ img {
 }
 
 .card-content {
-
   padding-top: 32px;
   padding-bottom: 32px;
   padding-left: 16px;
