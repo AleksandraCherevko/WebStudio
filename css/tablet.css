@@ -275,9 +275,9 @@
     width: calc((100% - 56px) / 2);
   }
 
-  .portfolio-images {
+  /* .portfolio-images {
     gap: 24px;
-  }
+  } */
 
   .potrfolio-button-list {
     margin-bottom: 64px;
