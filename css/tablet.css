@@ -88,11 +88,8 @@
   .slogan {
     padding-top: 112px;
     padding-bottom: 108px;
-    background-image: linear-gradient(
-        to right,
-        rgba(46, 47, 66, 0.7),
-        rgba(46, 47, 66, 0.7)
-      ),
+    background-image:
+      linear-gradient(to right, rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
       url("../images/people-tablet.jpg");
   }
 
@@ -100,11 +97,8 @@
     (min-resolution: 192dpi),
     (min-resolution: 2dppx) {
     .slogan {
-      background-image: linear-gradient(
-          to right,
-          rgba(46, 47, 66, 0.7),
-          rgba(46, 47, 66, 0.7)
-        ),
+      background-image:
+        linear-gradient(to right, rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
         url("../images/people-tablet-2x.jpg");
     }
   }
@@ -275,10 +269,9 @@
     width: calc((100% - 56px) / 2);
   }
 
-  /* .portfolio-images {
+  .portfolio-images {
     gap: 24px;
-  } */
-
+  }
   .potrfolio-button-list {
     margin-bottom: 64px;
     display: flex;
